@@ -1,0 +1,62 @@
+                                      PETER JOACHYM
+                                      RECHERCHE CONTRAT PRO 1-3 ANS
+                                      DÉVELOPPEUR FULLSTACK WEB ET MOBILE
+                                      DISPONIBLE IMMÉDIATEMENT
+
+CONTACT
+                                              PROJETS
+     joachym.peter@gmail.com
+
+     06 . 59 . 91 . 23 . 96                   Perche Plongé
+                                              création d'un site pour le club de plongé de Nogent-le-Routrou
+     /peter-joachym                             Site dynamique généré par une base de donnée,
+     /github.com/peterjoachym                   administrable par une interface utilisateur contenant:
+                                                Calendrier d'événement, Les formations, Annuaire des
+PROFIL                                          membres, Mini Drive pour les documents du club.
+                                                Frontend: ReactJS
+Après 10 ans de carrière de
+                                                Backend: NodeJS, ExpressJS, JWT
+formateur et enseignant me voilà
+devant un nouveau défi, réussir en              Base de Données: MySQL
+tant que développeur.                           Versionning: Git
+
+MOBILITÉ                                      M(-_(-_-)_-)E Drive
+Permis B                                      projet en cours: création d'un drive personnel avec la base de
+                                              donnée crypté
+2 heures de Chartres
+France si télétravail / télétravail partiel
+                                                 Clone de Google Drive personnalisable avec une
+                                                 authentification des utilisateurs dont les données
+FORMATION                                        sont entièrement chifrées dans la base de données,
+                                                 Frontend: ReactJS, MaterialUI
+ETNA Ecole informatique en
+                                                 Backend: NodeJS, ExpressJS, JWT
+alternance
+Master 2 Architecte de logiciel                  Base de Données: MySQL
+Développeur d'application                        Versionning: Git
+Mars 2022 - Février 2025
+Wild Code School(bootcamp)
+Développeur Web et mobile                     EXPÉRIENCES                     PROFESSIONNELLE
+Septembre 2021 - Février 2022
+COMPÉTENCES                                   Rectorat de Versailles , Professeur Histoire, Géographie, Lettres
+ Langages:                                    SEPT 2015 - AOÛT 2021
+
+- JavaScript   - PHP                            Création et organisation des plans de formations et leur
+- TypeScript   - HTML                           évaluation
+- Python       - CSS                            Mise en place de forme interactive d'enseignement
+ Frameworks et Outils:                          Evaluation des pratiques didactiques et pédagogiques
+- React JS           - Laravel
+- Express JS         - Git/GitLab             Rectorat de Versailles , Formateur Académique, Pratiques
+- Node JS            - MaterialUI             innovantes d'enseignement, Hybridation de l'enseignement
+Base de données:                              SEPT 2015 - AOÛT 2018
+- MySQL
+                                                 Organisation et création des formations pour Adultes
+LANGUES
+                                                 Intégration des outils numériques dans les pratiques
+Anglais C2, Slovaque, Tchèque                    pédagogiques
+LOISIRS                                          Innovation pédagogique et didactique
+
+pratique de Piano , Guitare, Chant
+pratique de Dessin,
+peinture à l'aérographe
+
